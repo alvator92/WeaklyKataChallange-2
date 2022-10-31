@@ -2,7 +2,7 @@ package start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import start.solutions.Kata;
+import start.solutions.NextKata;
 
 @SpringBootApplication
 public class Application {
